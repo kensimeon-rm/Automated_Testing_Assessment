@@ -27,7 +27,7 @@ Using a language & framework of your choice, create automated tests for the use 
    - _Optional: Output all recipes not containing an image_
 
 ## Test Data
-- URL: http://testing-zen.com/
+- URL: http://testing-zen.com/ or http://80.195.31.145/ (without Frameset)
 - Example ingredient search terms: Chicken Breasts, Long Grain Rice, Rainbow Trout, Pearl Onions
 
 ---
