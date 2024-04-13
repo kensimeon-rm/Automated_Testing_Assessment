@@ -1,15 +1,12 @@
 # Automated Testing Assessment
 
 ## Objective of the task
-Using a language & framework of your choice, create automated tests for the use cases below and update this documentation as instructed below. 
+In a paired programming session with the interview, you'll use a language of your choice \[ and framework if wanted ] to create basic automated tests for the use cases below. This task can also be done in the Console of a browser.
 
 ## Instructions
-- [ ] Fork this repo
-- [ ] Create a automated framework the runs against Firefox or Chrome
-- [ ] Create automated tests for the use cases below
-- [ ] Update overview section
-- [ ] Update Setup & Execution instructions per your framework of choice
-- [ ] Open a PR against the main repo to submit your completed work
+- [ ] Review the Use Cases below
+- [ ] Open the test site linked below in the Test Data section
+- [ ] Create one automated tests for each Use Case below
 
 ## Use Cases
 1. Validate the page loads & base elements exist
@@ -29,15 +26,3 @@ Using a language & framework of your choice, create automated tests for the use 
 ## Test Data
 - URL: http://testing-zen.com/ or http://80.195.31.145/ (without Frameset)
 - Example ingredient search terms: Chicken Breasts, Long Grain Rice, Rainbow Trout, Pearl Onions
-
----
-
-# Overview
-```Please explain your choice of language, framework & design pattern```
-
-# Setup Instructions
-1. Add setup instrucitons here
-
-# Execution Instructions
-- Add instructions on how to run the tests
-
